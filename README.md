@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+# Dekstop version
+![alt text](https://github.com/sezersinanoglu/react-image-gallery-with-tailwind-css/blob/main/imagesGallery-Dekstop.jpg)
+
+# Mobile Version
+![alt text](https://github.com/sezersinanoglu/react-image-gallery-with-tailwind-css/blob/main/imagesGallery-mobileVersion.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
